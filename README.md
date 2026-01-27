@@ -51,6 +51,8 @@ Let’s make sure Claude for Desktop is picking up the tool we’ve exposed in o
 
 Click on + sign here:
 
+![Screenshot.](/images/img.png)
+
 After clicking on the plus icon, hover over the “Connectors” menu. You should see the weather servers listed:
 
 Make sure you uncheck web search to avoid searching out side sre-agent mcp server
