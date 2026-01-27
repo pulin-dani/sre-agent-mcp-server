@@ -4,7 +4,7 @@ import httpx
 from mcp.server.fastmcp import FastMCP
 
 # Initialize FastMCP server
-mcp = FastMCP("pdl-sre-agent")
+mcp = FastMCP("sre-agent-mcp-server")
 
 @mcp.tool()
 async def get_alerts(service: str) -> str:
