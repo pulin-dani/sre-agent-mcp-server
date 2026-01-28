@@ -53,6 +53,6 @@ Click on + sign here:
 
 ![Screenshot.](/images/img.png)
 
-After clicking on the plus icon, hover over the “Connectors” menu. You should see the weather servers listed:
+After clicking on the plus icon, hover over the “Connectors” menu. You should see the sre server listed:
 
 Make sure you uncheck web search to avoid searching out side sre-agent mcp server
